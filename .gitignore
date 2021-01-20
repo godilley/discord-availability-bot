@@ -1,0 +1,10 @@
+# NODE
+node_modules
+build
+npm-debug.log
+.env
+.DS_Store
+
+# CUSTOM
+config.json
+!config.json.example

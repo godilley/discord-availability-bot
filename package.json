@@ -1,0 +1,19 @@
+{
+  "name": "discord-availability-bot",
+  "version": "0.0.1",
+  "description": "A Discord bot for scheduling events and working out availability",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godilley/discord-availability-bot.git"
+  },
+  "author": "George Dilley (GoDilley)",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/godilley/discord-availability-bot/issues"
+  },
+  "homepage": "https://github.com/godilley/discord-availability-bot#readme"
+}
