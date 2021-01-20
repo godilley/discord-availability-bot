@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "A Discord bot for scheduling events and working out availability",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/godilley/discord-availability-bot/issues"
   },
-  "homepage": "https://github.com/godilley/discord-availability-bot#readme"
+  "homepage": "https://github.com/godilley/discord-availability-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
