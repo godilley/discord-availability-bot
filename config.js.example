@@ -1,0 +1,5 @@
+export default
+{
+  "BOT_TOKEN": "BOT_TOKEN",
+  "COMMAND_PREFIX": "!ab"
+}
