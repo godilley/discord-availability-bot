@@ -19,6 +19,7 @@
   "homepage": "https://github.com/godilley/discord-availability-bot#readme",
   "dependencies": {
     "discord.js": "^12.5.1",
+    "mariadb": "^2.5.2",
     "sequelize": "^6.4.0",
     "winston": "^3.3.3"
   },
