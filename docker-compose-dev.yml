@@ -1,0 +1,12 @@
+version: '3.1'
+
+services:
+  app:
+    build:
+      context: ./
+      dockerfile: ./docker/app/dev/Dockerfile
+    volumes:
+      - "./app:/usr/src/app"
+  db:
+    ports:
+      - "3306:3306"

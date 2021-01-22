@@ -6,6 +6,6 @@ npm-debug.log
 .DS_Store
 
 # CUSTOM
-config.js
-!config.js.example
-log/
+app/config.js
+!app/config.js.example
+app/log/
