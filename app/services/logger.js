@@ -37,4 +37,8 @@ export default class Logger {
     info(message) {
         this.log('info', message);
     }
+
+    error(message) {
+        this.log('error', message);
+    }
 }

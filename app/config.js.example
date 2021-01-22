@@ -1,5 +1,9 @@
 export default
 {
   "BOT_TOKEN": "BOT_TOKEN",
-  "COMMAND_PREFIX": "!ab"
+  "COMMAND_PREFIX": "!ab",
+  "DB_HOST": "db",
+  "DB_USER": "root",
+  "DB_NAME": "discord_availability_bot",
+  "DB_PASS": "CHANGE_ME",
 }
